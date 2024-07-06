@@ -39,9 +39,9 @@ h6 {
 	background: transparent;
 	z-index: 1030;
 }
-.navbar .active {
+/* .navbar .active {
 	color:  #5CB381  !important;
-}
+} */
 .navbar .navbar-brand {
 }
 .navbar .nav-item {
